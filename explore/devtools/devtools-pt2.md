@@ -1,0 +1,2 @@
+1. There is a problem with the result = num1 + num2 written on line 11 in the explore.js file. Since num1 and num2 delivered here were passed as string types when collected from users, operator + was used as concatenate.
+2. Number() was used to replace the types of num1 and num2 with numbers.Please check result-calculateSum.png, result-dataType.png, fix.png
